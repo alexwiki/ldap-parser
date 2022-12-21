@@ -5,7 +5,7 @@ def ldap_to_json():
     dictionary={}
     counter = 0
     dictionary[counter]={}
-    with open('./grvldap1.grvlott.lott_ldap_user_detail_20221205_110635.log', 'r') as f:
+    with open('./ldap_logfile.log', 'r') as f:
         for line in f:
             if "END" in line:
                 counter+=1
