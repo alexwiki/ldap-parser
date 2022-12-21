@@ -1,2 +1,2 @@
 # ldap-parser
-LDAP parser, convert logs to json files.
+LDAP parser, convert LDAP logs to JSON files.
