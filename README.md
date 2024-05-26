@@ -1,2 +1,2 @@
 # ldap-parser
-LDAP parser, convert LDAP logs to JSON files.
+LDAP parser in python, which converts LDAP logs to JSON files.
